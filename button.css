@@ -1,0 +1,77 @@
+body
+{
+background-image: url(maxresdefault.jpg);
+background-size: contain;
+background-repeat: space;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+.btn, .button1
+{
+    align-content: center;
+    backface-visibility: visible;
+    background-color: cadetblue;
+    color: white;
+    align-items: center;
+    padding: 20px 30px;
+    text-align: justify;
+    font-family: monospace;
+    align-items: center;
+    align-self: center;
+    align-self: center;   
+}
+.btn, .button2
+{
+    align-content: center;
+    backface-visibility: visible;
+    background-color: cadetblue;
+    color: black;
+    align-items: center;
+    padding: 20px 30px;
+    text-align: justify;
+    font-family: monospace;
+    align-items: center;
+    align-self: center;
+    align-self: center;   
+}
+.btn, .button3
+{
+    align-content: center;
+    backface-visibility: visible;
+    background-color: cadetblue;
+    color: white;
+    align-items: center;
+    padding: 20px 30px;
+    text-align: justify;
+    font-family: monospace;
+    align-items: center;
+    align-self: center;
+    align-self: center;   
+}
+.btn1
+{
+    align-items: center;
+    
+}
+
+.black
+{
+   text-shadow: 2px 2px cadetblue;
+   color: black;
+   text-align: center;
+   color: lightpink;
+   background: rgba(0, 1, 19, 0.3);
+   padding: 10px 10px;
+    
+}
+
+
+.head{
+    text-shadow: 2px 2px cadetblue;
+    text-align: center;
+    color: lightpink;
+    background: rgba(0, 1, 19, 0.7);
+    padding: 20px 20px;
+   
+}
